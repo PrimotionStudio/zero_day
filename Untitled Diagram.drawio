@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" modified="2024-05-08T14:34:24.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.3.1" etag="CDtqMfS3vffFxb71ljxn" type="github">
+  <diagram name="Page-1" id="yw55ph5JiWCq7vzUBT19">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="User" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="74" width="48" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Recommendation App" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="13" y="83" width="170" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Recommendation" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="12" y="167" width="172" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Housekeeper List" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="29" y="407" width="138" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Housekeeper Profile" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="18" y="509" width="159" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Housekeeper Information" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="611" width="196" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5005208651224772;exitY=1.0121212583599668;entryX=0.5001470677992876;entryY=0.012121258359966856;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5001470677992876;exitY=1.0242425167199336;entryX=0.5001453577085982;entryY=-0.001162772954896439;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="Find Housekeepers" style="curved=1;startArrow=none;endArrow=block;exitX=0.5001453577085982;exitY=0.9981831395348837;entryX=0.5001811704773834;entryY=0.002651503591826468;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="Select Housekeeper" style="curved=1;startArrow=none;endArrow=block;exitX=0.5001811704773834;exitY=1.0147727619517932;entryX=0.5033018963891756;entryY=-0.0034090677897135415;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="View Details" style="curved=1;startArrow=none;endArrow=block;exitX=0.5033018963891756;exitY=1.0087121905702534;entryX=0.5001275588055046;entryY=-0.009469639171253551;" edge="1" parent="1" source="6" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
